@@ -4,7 +4,7 @@ import { useState } from "react";
 import { Mail, Phone, MapPin, Smartphone } from "lucide-react";
 
 export default function Contact() {
-  const [status, setStatus] = useState("idle"); // idle | sending | success
+  const [status, setStatus] = useState("idle"); 
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -18,7 +18,7 @@ export default function Contact() {
         `Name: ${name.value}\nEmail: ${email.value}\n\n${message.value}`
       )}`;
 
-    // Small delay for better UX
+    
     setTimeout(() => {
       window.location.href = mailtoLink;
       setStatus("success");
