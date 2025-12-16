@@ -73,7 +73,7 @@ export default function Hero() {
                         </p>
 
                         <a
-                            href="/Ganesh_Fullstack_Developer_Resume.pdf"
+                            href="/Ganesh_Fullstack_Developer.pdf"
                             download
                             className="inline-block bg-black text-white px-8 py-3 font-semibold hover:bg-gray-800 transition"
                         >
