@@ -8,7 +8,7 @@ const projects = [
   {
     id: 1,
     title: "LMS Platform",
-    image: "/assets/lms.jpg",
+    image: "/assets/LMS.jpg",
     type: "company",
     overview:
       "A SaaS-based Learning Management System designed for enterprise clients with role-based access.",
