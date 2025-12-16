@@ -19,7 +19,7 @@ const projects = [
       "Student learning, exams & proctoring",
       "Singpass, Zoom & Microsoft Teams integration",
     ],
-    tech: ["Next.js", "Node.js", "MongoDB", "Tailwind", "Zoom API"],
+    tech: ["React Js", "Node Js", "MongoDB", "Tailwind", "Zoom API","Teams Auth"],
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const projects = [
       "Manual patching using uploaded assets",
       "Detailed vulnerability insights",
     ],
-    tech: ["Next.js", "Node.js", "NVD API", "MongoDB"],
+    tech: ["Angular", "Node.js", "NVD API", "MongoDB"],
   },
   {
     id: 3,
@@ -49,8 +49,8 @@ const projects = [
       "Budget alerts",
     ],
     tech: ["React", "Tailwind", "Local Storage"],
-    github: "https://github.com/yourname/expense-tracker",
-    demo: "https://expense-demo.vercel.app",
+    github: "https://github.com/GaneshDev-ctrl/Mini-Project-1-ExpenseTracker",
+    demo: "",
   },
   {
     id: 4,
@@ -64,9 +64,9 @@ const projects = [
       "Ingredient lists",
       "Responsive UI",
     ],
-    tech: ["Next.js", "Recipe API"],
-    github: "https://github.com/yourname/recipe-app",
-    demo: "https://recipe-demo.vercel.app",
+    tech: ["Next.js", "Recipe API","Redux Toolkit"],
+    github: "https://github.com/GaneshDev-ctrl/recipe",
+    demo: "https://yummyfy.netlify.app/",
   },
 ];
 
